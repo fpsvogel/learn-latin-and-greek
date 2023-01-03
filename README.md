@@ -123,6 +123,8 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 
 Writing is just another way to internalize the language, so that your reading becomes more fluent.
 
+If you want to type in Greek, either use [TypeGreek](https://www.typegreek.com/) or install [a Greek keyboard layout](https://help.keyman.com/keyboard/galaxie_greek_mnemonic/3.2.2/galaxie_greek_mnemonic).
+
 **Start with these:**
 
 - [Sidgwick – *First Greek Writer*](https://www.google.com/books/edition/_/YI0CAAAAQAAJ) and [answer key](https://www.google.com/books/edition/_/Zo0CAAAAQAAJ)
