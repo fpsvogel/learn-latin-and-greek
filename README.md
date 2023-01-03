@@ -21,7 +21,7 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
 # Communities
 
 - [Textkit](https://www.textkit.com/greek-latin-forum/)
-- [Humanitas](https://www.conventiculum.com/2023-english) holds online Latin immersion workshops, including a track for beginners. As long as you know the basics of Latin ([see below](#first-steps-grammar)) you can join in. It's a lot of fun because there are many "regulars" who show up every time, and after a couple of workshops you might be old friends already.
+- [Humanitas](https://www.conventiculum.com/2023-english) holds online Latin immersion workshops, including a track for beginners. As long as you know the basics of Latin ([see below](#grammar-as-a-first-step-in-latin)) you can join in. It's a lot of fun because there are many "regulars" who show up every time, and after a couple of workshops you might be old friends already.
 - [Conventiculum Dickinsoniense](https://blogs.dickinson.edu/dcc/2022/11/09/conventiculum-dickinsoniense-2023/) is a similar workshop but in-person.
 - [Σύνοδος ἑλληνική](https://www.polisjerusalem.org/program/2022-synodos-hellenikos-%E1%BC%91%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%E1%BD%B8%CF%82-%CF%83%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82) by the Polis Institute is similar workshop for ancient Greek.
 
@@ -76,7 +76,7 @@ Writing is just another way to internalize the language, so that your reading be
 
 Lots more Latin writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#4)
 
-[links above](#dictionaries-to-keep-handy-for-greek)
+Another good exercise is to write a daily journal in Latin. You'll need Latin-English dictionaries ([links above](#dictionaries-to-keep-handy-for-latin)).
 
 ## Podcasts and YouTube channels in Latin
 
@@ -137,4 +137,4 @@ Writing is just another way to internalize the language, so that your reading be
 
 Lots more Greek writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#11)
 
-Another good exercise is to write a daily journal in Greek. You'll need Greek-English dictionaries ([links above](#dictionaries-to-keep-handy-1)).
+Another good exercise is to write a daily journal in Greek. You'll need Greek-English dictionaries ([links above](#dictionaries-to-keep-handy-for-greek)).
