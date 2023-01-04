@@ -112,9 +112,10 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 - 💲[*Alexandros*](https://www.amazon.com/dp/8493579874)
 - 💲[*Athenaze*, vol. 2 (Italian edition)](https://www.amazon.it/dp/8895611500)
 - [*Thrasymachus*](https://archive.org/details/Thrasymachus_A_New_Greek_Course)
-- [Pharr's *Homeric Greek: A Book for Beginners*](https://archive.org/details/PharrBeginningHomericGreek1920) and [answer key](https://archive.org/details/pharr-answer-key)
 - [Greek comics and audio](https://archive.org/details/@bedwere?and[]=subject%3A%22Ancient+Greek%22) by Roberto Lionello
 - [Moss's *A First Greek Reader*](https://www.google.com/books/edition/_/-A4BAAAAYAAJ) and [audio recordings](https://www.latinperdiem.com/a-first-greek-reader-charles-melville-moss-audio-files/)
+- [Pharr's *Homeric Greek: A Book for Beginners*](https://archive.org/details/PharrBeginningHomericGreek1920) and [answer key](https://archive.org/details/pharr-answer-key)
+- [Attic paraphrases of Homer](https://ryanfb.xyz/etc/2019/02/25/resources_for_reading_homeric_greek.html#paraphrases) if you want to keep reading Homer and practice your prose reading at the same time.
 - [Akropolis World News](http://www.akwn.net/)
 - 💲[*Ephodion*, vol. 1](https://www.amazon.it/dp/8895611128)
 - 💲[*Ephodion*, vol. 2](https://www.amazon.it/dp/8895611209)
