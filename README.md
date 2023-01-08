@@ -110,8 +110,10 @@ Here are some options for learning grammar:
 - 💲[*Athenaze*, vol. 2 (Italian edition)](https://www.amazon.it/dp/8895611500)
 - 💲[*Ephodion*, vol. 2](https://www.amazon.it/dp/8895611209)
 - [JACT *Reading Greek*](https://archive.org/details/readinggreektext0000unse)
+- [Beresford & Douglas – *A First  Greek  Reader*](https://archive.org/details/BERESFORDDOUGLAS-AFirstGreekReader) and 💲[audio recordings](https://ancientgreek.eu/edu/first-greek-reader.html)
 - [*Thrasymachus*](https://archive.org/details/Thrasymachus_A_New_Greek_Course)
 - [Moss's *A First Greek Reader*](https://www.google.com/books/edition/_/-A4BAAAAYAAJ) and [audio recordings](https://www.latinperdiem.com/a-first-greek-reader-charles-melville-moss-audio-files/)
+- [Cebes' Tablet](https://geoffreysteadman.com/cebes-tablet/) and 💲[audio recordings](https://ancientgreek.eu/audiobooks/cebes.html)
 - [Greek comics and audio](https://archive.org/details/@bedwere?and[]=subject%3A%22Ancient+Greek%22) by Roberto Lionello
 - [Pharr's *Homeric Greek: A Book for Beginners*](https://archive.org/details/PharrBeginningHomericGreek1920) and [answer key](https://archive.org/details/pharr-answer-key)
   - [Attic paraphrases of Homer](https://ryanfb.xyz/etc/2019/02/25/resources_for_reading_homeric_greek.html#paraphrases) if you want to keep reading Homer and practice your prose reading at the same time.
