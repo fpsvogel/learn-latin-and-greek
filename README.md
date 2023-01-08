@@ -37,7 +37,7 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
 
 ## First step: Grammar
 
-I myself found it helpful to study and memorize basic grammar before moving on to reading and writing. Here are some options for learning grammar:
+It's helpful to spend a bit of time on grammar before moving on to easy reading and writing. Here are some options:
 
 - 💲[Latin by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/latin-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables). My favorite for its brevity. [Here's a video overview](https://www.youtube.com/watch?v=_yflqUWKVVc) by the author.
 - [*Latin: A Structural Approach*](https://archive.org/details/latinstructurala00swee)
@@ -96,7 +96,7 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 
 ## First step: Grammar
 
-Here are some options for learning grammar:
+It's helpful to spend a bit of time on grammar before moving on to easy reading and writing. Here are some options:
 
 - 💲[Ancient Greek by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/ancient-greek-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables)
 - [A Digital Tutorial for Ancient Greek](https://daedalus.umkc.edu/FirstGreekBook/index.html)
