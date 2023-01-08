@@ -50,9 +50,8 @@ I myself found it helpful to study and memorize basic grammar before moving on t
 - 💲[LLPSI: A Companion to Familia Romana](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-a-companion-to-familia-romana-second-edition) if you need guidance on grammar.
 - 💲[LLPSI: Colloquia Personarum](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-colloquia-personarum-second-edition-with-full-color-illustrations)
 - 💲[LLPSI: Fabulae Syrae](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-fabulae-syrae)
-- ["Perseus" audio](http://indwellinglanguage.com/latin-media/latin-audio/perseus) from Ritchie's *Fabulae Faciles* plus [video explanations of the grammar](https://www.youtube.com/playlist?list=PLEC2sC2cPY4B7JSQfTPJKZU4XuoVm-Q7T)
-- ["Hercules" audio]([http://indwellinglanguage.com/latin-media/latin-audio/perseus) from Ritchie's *Fabulae Faciles*
-- [Nutting's *A First Latin Reader* audio](http://indwellinglanguage.com/latin-media/latin-audio/a-first-latin-reader), which includes stories about early American history.
+- [Ritchie's *Fabulae Faciles*](https://geoffreysteadman.com/ritchies-fabulae-faciles/) and ["Perseus" audio recordings](http://indwellinglanguage.com/latin-media/latin-audio/perseus), ["Perseus" grammar videos](https://www.youtube.com/playlist?list=PLEC2sC2cPY4B7JSQfTPJKZU4XuoVm-Q7T), ["Hercules" audio recordings]([http://indwellinglanguage.com/latin-media/latin-audio/perseus)
+- [Nutting's *A First Latin Reader*](https://www.google.com/books/edition/A_First_Latin_Reader/ZLgKAwAAQBAJ) and [audio recordings](http://indwellinglanguage.com/latin-media/latin-audio/a-first-latin-reader), which includes stories about early American history.
 - [Simple Latin Online Reading Resources](http://johnpiazza.net/latin/online-reading/)
 - 💲[Latinum](https://www.latinum.org.uk/beginner) has lots of audio courses and books, all available via a Patreon subscription.
 - 💲[Latin novellas](https://docs.google.com/document/d/1bF8hZuxTDtgNMSSdonEX112JJaVYqoPH7w27Oju9ETs). There are tons of them, and some are available as audiobooks.
