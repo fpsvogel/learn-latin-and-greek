@@ -7,27 +7,27 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
 ## Table of contents
 - [Communities](#communities)
 - [Latin](#latin)
-  - [Dictionaries to keep handy for Latin](#dictionaries-to-keep-handy-for-latin)
-  - [Grammar as a first step in Latin](#grammar-as-a-first-step-in-latin)
-  - [Reading Latin](#reading-latin)
-  - [Writing Latin](#writing-latin)
-  - [Podcasts and YouTube channels in Latin](#podcasts-and-youtube-channels-in-latin)
+  - [Dictionaries](#dictionaries)
+  - [First step: Grammar](#first-step-grammar)
+  - [Reading](#reading)
+  - [Writing](#writing)
+  - [Podcasts and YouTube channels](#podcasts-and-youtube-channels)
 - [Ancient Greek](#ancient-greek)
-  - [Dictionaries to keep handy for Greek](#dictionaries-to-keep-handy-for-greek)
-  - [Grammar (and reading) as a first step in Greek](#grammar-and-reading-as-a-first-step-in-greek)
-  - [Reading Greek](#reading-greek)
-  - [Writing Greek](#writing-greek)
+  - [Dictionaries](#dictionaries-1)
+  - [First step: Grammar](#first-step-grammar-1)
+  - [Reading](#reading-1)
+  - [Writing](#writing-1)
 
 # Communities
 
 - [Textkit](https://www.textkit.com/greek-latin-forum/)
-- [Humanitas](https://www.conventiculum.com/2023-english) holds online Latin immersion workshops, including a track for beginners. As long as you know the basics of Latin ([see below](#grammar-as-a-first-step-in-latin)) you can join in. It's a lot of fun because there are many "regulars" who show up every time, and after a couple of workshops you might be old friends already.
+- [Humanitas](https://www.conventiculum.com/2023-english) holds online Latin immersion workshops, including a track for beginners. As long as you know the basics of Latin ([see below](#first-step-grammar)) you can join in. It's a lot of fun because there are many "regulars" who show up every time, and after a couple of workshops you might be old friends already.
 - [Conventiculum Dickinsoniense](https://blogs.dickinson.edu/dcc/2022/11/09/conventiculum-dickinsoniense-2023/) is a similar workshop but in-person.
 - [Σύνοδος ἑλληνική](https://www.polisjerusalem.org/program/2022-synodos-hellenikos-%E1%BC%91%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%E1%BD%B8%CF%82-%CF%83%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82) by the Polis Institute is similar workshop for ancient Greek.
 
 # Latin
 
-## Dictionaries to keep handy for Latin
+## Dictionaries
 
 - [Logeion](https://logeion.uchicago.edu) Latin and Greek dictionaries
 - [Perseus Latin Word Study Tool](https://www.perseus.tufts.edu/hopper/morph?la=latin), handy for when you're not sure of the dictionary form of a word
@@ -35,16 +35,15 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
 - English-Latin dictionaries: [Smith & Hall](https://latinitium.com/latin-dictionaries/) and [Numen](https://latinlexicon.org/search_english.php)
 - [Neo-Latin Lexicon](https://neolatinlexicon.org/adumbratio-old/)
 
-## Grammar as a first step in Latin
+## First step: Grammar
 
 I myself found it helpful to study and memorize basic grammar before moving on to reading and writing. Here are some options for learning grammar:
 
-- 💲[Latin by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/latin-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables). [Here's a video overview](https://www.youtube.com/watch?v=_yflqUWKVVc) by the author.
-- At this point I suggest moving on to reading and writing, but if you want more grammar:
-  - [*Latin: A Structural Approach*](https://archive.org/details/latinstructurala00swee)
-  - [*Wheelock's Latin*](https://archive.org/details/wheelockslatin0000whee), despite valid criticisms against it, is handy because it has an answer key in the back.
+- 💲[Latin by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/latin-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables). My favorite for its brevity. [Here's a video overview](https://www.youtube.com/watch?v=_yflqUWKVVc) by the author.
+- [*Latin: A Structural Approach*](https://archive.org/details/latinstructurala00swee)
+- [*Wheelock's Latin*](https://archive.org/details/wheelockslatin0000whee), despite valid criticisms against it, is handy because it has an answer key in the back.
 
-## Reading Latin
+## Reading
 
 - [Latinitium's "Start Learning Latin" section](https://latinitium.com/#startlearninglatin) has great tips on how to make your Latin reading as productive as possible.
 - [LLPSI: Familia Romana](https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV) videos by ScipioMartianus
@@ -58,7 +57,7 @@ I myself found it helpful to study and memorize basic grammar before moving on t
 - 💲[Latinum](https://www.latinum.org.uk/beginner) has lots of audio courses and books, all available via a Patreon subscription.
 - 💲[Latin novellas](https://docs.google.com/document/d/1bF8hZuxTDtgNMSSdonEX112JJaVYqoPH7w27Oju9ETs). There are tons of them, and some are available as audiobooks.
 
-## Writing Latin
+## Writing
 
 Writing is just another way to internalize the language, so that your reading becomes more fluent. [Here's a guide](https://latinitium.com/latin-prose-composition-books-and-method/) on how to get the most out of these Latin composition books.
 
@@ -76,9 +75,9 @@ Writing is just another way to internalize the language, so that your reading be
 
 Lots more Latin writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#4)
 
-Another good exercise is to write a daily journal in Latin. You'll need Latin-English dictionaries ([links above](#dictionaries-to-keep-handy-for-latin)).
+Another good exercise is to write a daily journal in Latin. You'll need Latin-English dictionaries ([links above](#dictionaries)).
 
-## Podcasts and YouTube channels in Latin
+## Podcasts and YouTube channels
 
 There are lots of Latin podcasts and YouTube channels out there, but most are out of reach for all but advanced learners. Here are the few easier ones that I've found:
 
@@ -88,7 +87,7 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 
 # Ancient Greek
 
-## Dictionaries to keep handy for Greek
+## Dictionaries
 
 - [Logeion](https://logeion.uchicago.edu) Latin and Greek dictionaries
 - [Perseus Greek Word Study Tool](https://www.perseus.tufts.edu/hopper/morph?la=greek), handy for when you're not sure of the dictionary form of a word
@@ -96,31 +95,29 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 - [English-Greek dictionary by Woodhouse](https://artflsrv03.uchicago.edu/efts/woodhouse/woodhouse_search.html)
 - [Godmy's Searchable Digitized Latin & Greek Lexica](http://lexica.linguax.com/) for Greek-Latin dictionaries
 
-## Grammar (and reading) as a first step in Greek
+## First step: Grammar
+
+Here are some options for learning grammar:
 
 - 💲[Ancient Greek by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/ancient-greek-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables)
-- [JACT Reading Greek](https://archive.org/details/readinggreektext0000unse) plus [grammar & exercises](https://archive.org/details/readinggreekgram0000unse)
-- I got enough grammar in JACT, but if you want more:
-  - [A Digital Tutorial for Ancient Greek](https://daedalus.umkc.edu/FirstGreekBook/index.html)
-  - The video series [Learn Ancient Greek, with Prof. Leonard Muellner](https://www.youtube.com/playlist?list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT)
-  - [Mastronarde - *Introduction to Attic Greek*](https://archive.org/details/introductiontoat00mast) and 💲[answer key](https://www.amazon.com/dp/0520201779)
-  - [Hansen & Quinn - *Greek: An Intensive Course*](https://archive.org/details/greekintensiveco0000hans)
+- [A Digital Tutorial for Ancient Greek](https://daedalus.umkc.edu/FirstGreekBook/index.html)
 
-## Reading Greek
+## Reading
 
 - 💲[*Athenaze*, vol. 1 (Italian edition)](https://www.amazon.it/dp/8895611497)
+- 💲[*Ephodion*, vol. 1](https://www.amazon.it/dp/8895611128)
 - 💲[*Alexandros*](https://www.amazon.com/dp/8493579874)
 - 💲[*Athenaze*, vol. 2 (Italian edition)](https://www.amazon.it/dp/8895611500)
-- [*Thrasymachus*](https://archive.org/details/Thrasymachus_A_New_Greek_Course)
-- [Greek comics and audio](https://archive.org/details/@bedwere?and[]=subject%3A%22Ancient+Greek%22) by Roberto Lionello
-- [Moss's *A First Greek Reader*](https://www.google.com/books/edition/_/-A4BAAAAYAAJ) and [audio recordings](https://www.latinperdiem.com/a-first-greek-reader-charles-melville-moss-audio-files/)
-- [Pharr's *Homeric Greek: A Book for Beginners*](https://archive.org/details/PharrBeginningHomericGreek1920) and [answer key](https://archive.org/details/pharr-answer-key)
-- [Attic paraphrases of Homer](https://ryanfb.xyz/etc/2019/02/25/resources_for_reading_homeric_greek.html#paraphrases) if you want to keep reading Homer and practice your prose reading at the same time.
-- [Akropolis World News](http://www.akwn.net/)
-- 💲[*Ephodion*, vol. 1](https://www.amazon.it/dp/8895611128)
 - 💲[*Ephodion*, vol. 2](https://www.amazon.it/dp/8895611209)
+- [JACT *Reading Greek*](https://archive.org/details/readinggreektext0000unse)
+- [*Thrasymachus*](https://archive.org/details/Thrasymachus_A_New_Greek_Course)
+- [Moss's *A First Greek Reader*](https://www.google.com/books/edition/_/-A4BAAAAYAAJ) and [audio recordings](https://www.latinperdiem.com/a-first-greek-reader-charles-melville-moss-audio-files/)
+- [Greek comics and audio](https://archive.org/details/@bedwere?and[]=subject%3A%22Ancient+Greek%22) by Roberto Lionello
+- [Pharr's *Homeric Greek: A Book for Beginners*](https://archive.org/details/PharrBeginningHomericGreek1920) and [answer key](https://archive.org/details/pharr-answer-key)
+  - [Attic paraphrases of Homer](https://ryanfb.xyz/etc/2019/02/25/resources_for_reading_homeric_greek.html#paraphrases) if you want to keep reading Homer and practice your prose reading at the same time.
+- [Akropolis World News](http://www.akwn.net/)
 
-## Writing Greek
+## Writing
 
 Writing is just another way to internalize the language, so that your reading becomes more fluent.
 
@@ -140,4 +137,4 @@ If you want to type in Greek, either use [TypeGreek](https://www.typegreek.com/)
 
 Lots more Greek writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#11)
 
-Another good exercise is to write a daily journal in Greek. You'll need Greek-English dictionaries ([links above](#dictionaries-to-keep-handy-for-greek)).
+Another good exercise is to write a daily journal in Greek. You'll need Greek-English dictionaries ([links above](#dictionaries-1)).
