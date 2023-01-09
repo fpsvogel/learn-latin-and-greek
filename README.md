@@ -37,11 +37,11 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
 
 ## First step: Grammar
 
-It's helpful to spend a bit of time on grammar before moving on to easy reading and writing. Here are some options:
+It's helpful to spend some time on grammar before moving on to easy reading and writing. Here are some options:
 
 - 💲[Latin by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/latin-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables). My favorite for its brevity. [Here's a video overview](https://www.youtube.com/watch?v=_yflqUWKVVc) by the author.
 - [*Latin: A Structural Approach*](https://archive.org/details/latinstructurala00swee)
-- [*Wheelock's Latin*](https://archive.org/details/wheelockslatin0000whee), despite valid criticisms against it, is handy because it has an answer key in the back.
+- [*Wheelock's Latin*](https://archive.org/details/wheelockslatin0000whee) is not my top recommendation, but try it if the above resources don't "click" with you.
 
 ## Reading
 
@@ -74,7 +74,7 @@ Writing is just another way to internalize the language, so that your reading be
 
 Lots more Latin writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#4)
 
-Another good exercise is to write a daily journal in Latin. You'll need Latin-English dictionaries ([links above](#dictionaries)).
+Another good exercise is to write a daily journal in Latin. You'll need an English-Latin dictionary ([links above](#dictionaries)).
 
 ## Podcasts and YouTube channels
 
@@ -96,7 +96,7 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 
 ## First step: Grammar
 
-It's helpful to spend a bit of time on grammar before moving on to easy reading and writing. Here are some options:
+It's helpful to spend some time on grammar before moving on to easy reading and writing. Here are some options:
 
 - 💲[Ancient Greek by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/ancient-greek-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables)
 - [A Digital Tutorial for Ancient Greek](https://daedalus.umkc.edu/FirstGreekBook/index.html)
@@ -139,4 +139,4 @@ If you want to type in Greek, either use [TypeGreek](https://www.typegreek.com/)
 
 Lots more Greek writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#11)
 
-Another good exercise is to write a daily journal in Greek. You'll need Greek-English dictionaries ([links above](#dictionaries-1)).
+Another good exercise is to write a daily journal in Greek. You'll need an English-Greek dictionary ([link above](#dictionaries-1)).
