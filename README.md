@@ -106,6 +106,7 @@ It's helpful to spend a bit of time on grammar before moving on to easy reading 
 - 💲[*Athenaze*, vol. 1 (Italian edition)](https://www.amazon.it/dp/8895611497) and [audio recordings of a few chapters](https://www.youtube.com/playlist?list=PLU1WuLg45SixrxviQiHOlkdkT-XPvyrgv)
 - 💲[*Ephodion*, vol. 1](https://www.amazon.it/dp/8895611128)
 - 💲[*Alexandros*](https://www.amazon.com/dp/8493579874)
+- [Lingua Graeca Per Se Illustrata](https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/)
 - 💲[*Athenaze*, vol. 2 (Italian edition)](https://www.amazon.it/dp/8895611500)
 - 💲[*Ephodion*, vol. 2](https://www.amazon.it/dp/8895611209)
 - [JACT *Reading Greek*](https://archive.org/details/readinggreektext0000unse)
