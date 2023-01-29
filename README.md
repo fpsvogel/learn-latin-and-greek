@@ -45,9 +45,10 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 
 ## Reading
 
-- [Latinitium's "Start Learning Latin" section](https://latinitium.com/#startlearninglatin) has great tips on how to make your Latin reading as productive as possible.
+- [Latinitium's "Start Learning Latin" section](https://latinitium.com/#startlearninglatin) has great tips on how to make your Latin reading productive.
 - [LLPSI: Familia Romana](https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV) videos by ScipioMartianus
-- 💲[LLPSI: A Companion to Familia Romana](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-a-companion-to-familia-romana-second-edition) if you need guidance on grammar.
+  - [Exercitia Latina](https://exercitia-latina.surge.sh/chapters)
+  - 💲[LLPSI: A Companion to Familia Romana](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-a-companion-to-familia-romana-second-edition) if you need guidance on grammar.
 - 💲[LLPSI: Colloquia Personarum](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-colloquia-personarum-second-edition-with-full-color-illustrations)
 - 💲[LLPSI: Fabulae Syrae](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-fabulae-syrae)
 - [Ritchie's *Fabulae Faciles*](https://geoffreysteadman.com/ritchies-fabulae-faciles/) and ["Perseus" audio recordings](http://indwellinglanguage.com/latin-media/latin-audio/perseus), ["Perseus" grammar videos](https://www.youtube.com/playlist?list=PLEC2sC2cPY4B7JSQfTPJKZU4XuoVm-Q7T), ["Hercules" audio recording](https://www.youtube.com/watch?v=cTvjDtJP_wU)
