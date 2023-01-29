@@ -57,6 +57,7 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 - 💲[Latinum](https://www.latinum.org.uk/beginner) has lots of audio courses and books, all available via a Patreon subscription.
 - 💲[Latin novellas](https://docs.google.com/document/d/1bF8hZuxTDtgNMSSdonEX112JJaVYqoPH7w27Oju9ETs). There are tons of them, and some are available as audiobooks.
 - [Ad Alpes](https://archive.org/details/AdAlpes) and [audio recordings at Latinum](https://www.patreon.com/posts/38375506) or at Latinitium ([1](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-1-chapters-1-12-audiobook), [2](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-2-chapters-13-26-audiobook))
+- [Ciceronis Filius](https://linguae.weebly.com/uploads/3/6/5/7/3657496/ciceronis_filius_paoli.pdf)
 
 ## Writing
 
