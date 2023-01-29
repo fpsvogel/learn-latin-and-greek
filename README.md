@@ -113,6 +113,7 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 - [Beresford & Douglas – *A First  Greek  Reader*](https://archive.org/details/BERESFORDDOUGLAS-AFirstGreekReader) and 💲[audio recordings](https://ancientgreek.eu/edu/first-greek-reader.html)
 - [*Thrasymachus*](https://archive.org/details/Thrasymachus_A_New_Greek_Course)
 - [Moss's *A First Greek Reader*](https://www.google.com/books/edition/_/-A4BAAAAYAAJ) and [audio recordings](https://www.latinperdiem.com/a-first-greek-reader-charles-melville-moss-audio-files/)
+- [Stoffel - An Epitome of the New Testament](https://archive.org/details/epitometeskaines01stof) and [audio recordings of a few chapters](https://www.youtube.com/playlist?list=PLUqyJQtzjxMCB3x8jGvgGO3KTB_kTXqTD)
 - Other easy readers at the [Greek Learner Texts Project](https://greek-learner-texts.org/texts/#19th20th-century-easy-greek-readers)
 - [Cebes' Tablet](https://geoffreysteadman.com/cebes-tablet/) and 💲[audio recordings](https://ancientgreek.eu/audiobooks/cebes.html)
 - [Greek comics and audio](https://archive.org/details/@bedwere?and[]=subject%3A%22Ancient+Greek%22) by Roberto Lionello
