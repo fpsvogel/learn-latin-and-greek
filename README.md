@@ -65,6 +65,9 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 - [Simple Latin Online Reading Resources](http://johnpiazza.net/latin/online-reading/)
 - 💲[Latinum](https://www.latinum.org.uk/beginner) has lots of audio courses and books, all available via a Patreon subscription.
 - 💲[Latin novellas](https://docs.google.com/document/d/1bF8hZuxTDtgNMSSdonEX112JJaVYqoPH7w27Oju9ETs). There are tons of them, and some are available as audiobooks.
+- 💲[LLPSI: Roma Aeterna](https://www.amazon.com/Roma-Aeterna-Hans-H-%C3%98rberg/dp/1585102334) and [audio recordings](https://www.youtube.com/watch?v=ycAjNsy6OJU&list=PLSpl3cO92FvZvZa2t5ZGA_lkUVj_1bQE-&index=140) (or [these by Alexis Hellmer](https://www.facebook.com/groups/189810055109040/media/videos) which have great pronunciation but are a pain to navigate; [here is the first one](https://www.facebook.com/alexis.hellmer1/videos/2036068226483997/?idorvanity=189810055109040))
+  - 💲[A Companion to Roma Aeterna](https://www.amazon.com/Companion-Roma-Aeterna-Instructions-Vocabulary-ebook/dp/B07BS79TN2)
+  - [Syntaxis 'Romae Aeternae'](https://scholarisopus.files.wordpress.com/2010/09/syntaxisra.pdf), the new grammatical concepts explained in Latin.
 - [Ad Alpes](https://archive.org/details/AdAlpes) and [audio recordings at Latinum](https://www.patreon.com/posts/38375506) or at Latinitium ([1](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-1-chapters-1-12-audiobook), [2](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-2-chapters-13-26-audiobook))
 - [Ciceronis Filius](https://linguae.weebly.com/uploads/3/6/5/7/3657496/ciceronis_filius_paoli.pdf)
 
