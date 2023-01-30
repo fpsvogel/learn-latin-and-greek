@@ -47,7 +47,6 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 
 - 💲[Latin by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/latin-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables). My favorite for its brevity. [Here's a video overview](https://www.youtube.com/watch?v=_yflqUWKVVc) by the author.
 - [*Latin: A Structural Approach*](https://archive.org/details/latinstructurala00swee)
-- [*Wheelock's Latin*](https://archive.org/details/wheelockslatin0000whee) is not my top recommendation, but try it if the above resources don't "click" with you.
 
 <!-- omit in toc -->
 ## Latin reading
@@ -55,7 +54,7 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 - [Latinitium's "Start Learning Latin" section](https://latinitium.com/#startlearninglatin) has great tips on how to make your Latin reading productive.
 - [LLPSI: Familia Romana](https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV) videos by ScipioMartianus
   - [Exercitia Latina](https://exercitia-latina.surge.sh/chapters)
-  - 💲[LLPSI: A Companion to Familia Romana](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-a-companion-to-familia-romana-second-edition) if you need guidance on grammar.
+  - 💲[LLPSI: A Companion to Familia Romana](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-a-companion-to-familia-romana-second-edition) if you want guidance on grammar.
 - 💲[LLPSI: Colloquia Personarum](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-colloquia-personarum-second-edition-with-full-color-illustrations)
 - 💲[LLPSI: Fabulae Syrae](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-fabulae-syrae)
 - [Ritchie's *Fabulae Faciles*](https://geoffreysteadman.com/ritchies-fabulae-faciles/) and ["Perseus" audio recordings](http://indwellinglanguage.com/latin-media/latin-audio/perseus), ["Perseus" grammar videos](https://www.youtube.com/playlist?list=PLEC2sC2cPY4B7JSQfTPJKZU4XuoVm-Q7T), ["Hercules" audio recording](https://www.youtube.com/watch?v=cTvjDtJP_wU)
