@@ -7,27 +7,32 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
 ## Table of contents
 - [Communities](#communities)
 - [Latin](#latin)
-  - [Dictionaries](#dictionaries)
-  - [First step: Grammar](#first-step-grammar)
-  - [Reading](#reading)
-  - [Writing](#writing)
-  - [Podcasts and YouTube channels](#podcasts-and-youtube-channels)
+  - [Dictionaries](#latin-dictionaries)
+  - [Grammar](#latin-grammar)
+  - [Reading](#latin-reading)
+  - [Writing](#latin-writing)
+  - [Podcasts and YouTube channels](#latin-podcasts-and-youtube-channels)
 - [Ancient Greek](#ancient-greek)
-  - [Dictionaries](#dictionaries-1)
-  - [First step: Grammar](#first-step-grammar-1)
-  - [Reading](#reading-1)
-  - [Writing](#writing-1)
+  - [Dictionaries](#greek-dictionaries)
+  - [Grammar](#greek-grammar)
+  - [Reading](#greek-reading)
+  - [Writing](#greek-writing)
 
+<!-- omit in toc -->
 # Communities
 
 - [Textkit](https://www.textkit.com/greek-latin-forum/)
-- [Humanitas](https://www.conventiculum.com/2023-english) holds online Latin immersion workshops, including a track for beginners. As long as you know the basics of Latin ([see below](#first-step-grammar)) you can join in. It's a lot of fun because there are many "regulars" who show up every time, and after a couple of workshops you might be old friends already.
+- [Humanitas](https://www.conventiculum.com/2023-english) holds online Latin immersion workshops, including a track for beginners. As long as you know the basics of Latin ([see below](#latin-grammar)) you can join in. It's a lot of fun because there are many "regulars" who show up every time, and after a couple of workshops you might be old friends already.
 - [Conventiculum Dickinsoniense](https://blogs.dickinson.edu/dcc/2022/11/09/conventiculum-dickinsoniense-2023/) is a similar workshop but in-person.
 - [Σύνοδος ἑλληνική](https://www.polisjerusalem.org/program/2022-synodos-hellenikos-%E1%BC%91%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%E1%BD%B8%CF%82-%CF%83%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82) by the Polis Institute is similar workshop for ancient Greek.
 
+<!-- omit in toc -->
 # Latin
 
-## Dictionaries
+<!-- omit in toc -->
+## Latin dictionaries
+
+These are for reference. Skip down to "Latin Grammar" for first steps.
 
 - [Logeion](https://logeion.uchicago.edu) Latin and Greek dictionaries
 - [Perseus Latin Word Study Tool](https://www.perseus.tufts.edu/hopper/morph?la=latin), handy for when you're not sure of the dictionary form of a word
@@ -35,7 +40,8 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
 - English-Latin dictionaries: [Smith & Hall](https://latinitium.com/latin-dictionaries/) and [Numen](https://latinlexicon.org/search_english.php)
 - [Neo-Latin Lexicon](https://neolatinlexicon.org/adumbratio-old/)
 
-## First step: Grammar
+<!-- omit in toc -->
+## Latin grammar
 
 It's helpful to spend some time on grammar before moving on to easy reading and writing. Here are some options:
 
@@ -43,7 +49,8 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 - [*Latin: A Structural Approach*](https://archive.org/details/latinstructurala00swee)
 - [*Wheelock's Latin*](https://archive.org/details/wheelockslatin0000whee) is not my top recommendation, but try it if the above resources don't "click" with you.
 
-## Reading
+<!-- omit in toc -->
+## Latin reading
 
 - [Latinitium's "Start Learning Latin" section](https://latinitium.com/#startlearninglatin) has great tips on how to make your Latin reading productive.
 - [LLPSI: Familia Romana](https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV) videos by ScipioMartianus
@@ -59,7 +66,8 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 - [Ad Alpes](https://archive.org/details/AdAlpes) and [audio recordings at Latinum](https://www.patreon.com/posts/38375506) or at Latinitium ([1](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-1-chapters-1-12-audiobook), [2](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-2-chapters-13-26-audiobook))
 - [Ciceronis Filius](https://linguae.weebly.com/uploads/3/6/5/7/3657496/ciceronis_filius_paoli.pdf)
 
-## Writing
+<!-- omit in toc -->
+## Latin writing
 
 Writing is just another way to internalize the language, so that your reading becomes more fluent. [Here's a guide](https://latinitium.com/latin-prose-composition-books-and-method/) on how to get the most out of these Latin composition books.
 
@@ -77,9 +85,10 @@ Writing is just another way to internalize the language, so that your reading be
 
 Lots more Latin writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#4)
 
-Another good exercise is to write a daily journal in Latin. You'll need an English-Latin dictionary ([links above](#dictionaries)).
+Another good exercise is to write a daily journal in Latin. You'll need an English-Latin dictionary ([links above](#latin-dictionaries)).
 
-## Podcasts and YouTube channels
+<!-- omit in toc -->
+## Latin podcasts and YouTube channels
 
 There are lots of Latin podcasts and YouTube channels out there, but most are out of reach for all but advanced learners. Here are the few easier ones that I've found:
 
@@ -87,9 +96,11 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 - [Beatus Helvetius Salodurensis](https://www.youtube.com/@beatushelvetiussalodurensi3658/videos)
 - [Magister Craft](https://www.youtube.com/@MagisterCraft/videos)
 
+<!-- omit in toc -->
 # Ancient Greek
 
-## Dictionaries
+<!-- omit in toc -->
+## Greek dictionaries
 
 - [Logeion](https://logeion.uchicago.edu) Latin and Greek dictionaries
 - [Perseus Greek Word Study Tool](https://www.perseus.tufts.edu/hopper/morph?la=greek), handy for when you're not sure of the dictionary form of a word
@@ -97,14 +108,16 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 - [English-Greek dictionary by Woodhouse](https://artflsrv03.uchicago.edu/efts/woodhouse/woodhouse_search.html)
 - [Godmy's Searchable Digitized Latin & Greek Lexica](http://lexica.linguax.com/) for Greek-Latin dictionaries
 
-## First step: Grammar
+<!-- omit in toc -->
+## Greek grammar
 
 It's helpful to spend some time on grammar before moving on to easy reading and writing. Here are some options:
 
 - 💲[Ancient Greek by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/ancient-greek-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables)
 - [A Digital Tutorial for Ancient Greek](https://daedalus.umkc.edu/FirstGreekBook/index.html)
 
-## Reading
+<!-- omit in toc -->
+## Greek reading
 
 - 💲[*Athenaze*, vol. 1 (Italian edition)](https://www.amazon.it/dp/8895611497) and [audio recordings of a few chapters](https://www.youtube.com/playlist?list=PLU1WuLg45SixrxviQiHOlkdkT-XPvyrgv)
 - 💲[*Ephodion*, vol. 1](https://www.amazon.it/dp/8895611128)
@@ -124,7 +137,8 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
   - [Attic paraphrases of Homer](https://ryanfb.xyz/etc/2019/02/25/resources_for_reading_homeric_greek.html#paraphrases) if you want to keep reading Homer and practice your prose reading at the same time.
 - [Akropolis World News](http://www.akwn.net/)
 
-## Writing
+<!-- omit in toc -->
+## Greek writing
 
 Writing is just another way to internalize the language, so that your reading becomes more fluent.
 
@@ -144,4 +158,4 @@ If you want to type in Greek, either use [TypeGreek](https://www.typegreek.com/)
 
 Lots more Greek writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#11)
 
-Another good exercise is to write a daily journal in Greek. You'll need an English-Greek dictionary ([link above](#dictionaries-1)).
+Another good exercise is to write a daily journal in Greek. You'll need an English-Greek dictionary ([link above](#greek-dictionaries)).
