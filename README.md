@@ -57,8 +57,9 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 - [LLPSI: Familia Romana](https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV) videos by ScipioMartianus
   - [Exercitia Latina](https://exercitia-latina.surge.sh/chapters)
   - 💲[LLPSI: A Companion to Familia Romana](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-a-companion-to-familia-romana-second-edition) if you want guidance on grammar.
-- 💲[LLPSI: Colloquia Personarum](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-colloquia-personarum-second-edition-with-full-color-illustrations)
-- 💲[LLPSI: Fabulae Syrae](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-fabulae-syrae)
+  - 💲[LLPSI: Colloquia Personarum](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-colloquia-personarum-second-edition-with-full-color-illustrations)
+  - [LLPSI: Fabellae Latinae](https://www.mediafire.com/file/s5byiw7z4slhy4u/Fabellae_Latinae_I-XXXV.pdf/file) and [audio recordings](https://www.youtube.com/playlist?list=PLmiokot_81foUicf2DanPABQkSzG6257t)
+  - 💲[LLPSI: Fabulae Syrae](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-fabulae-syrae)
 - [Ritchie's *Fabulae Faciles*](https://geoffreysteadman.com/ritchies-fabulae-faciles/) and ["Perseus" audio recordings](http://indwellinglanguage.com/latin-media/latin-audio/perseus), ["Perseus" grammar videos](https://www.youtube.com/playlist?list=PLEC2sC2cPY4B7JSQfTPJKZU4XuoVm-Q7T), ["Hercules" audio recording](https://www.youtube.com/watch?v=cTvjDtJP_wU)
 - [Nutting's *A First Latin Reader*](https://www.google.com/books/edition/A_First_Latin_Reader/ZLgKAwAAQBAJ) and [audio recordings](http://indwellinglanguage.com/latin-media/latin-audio/a-first-latin-reader), which includes stories about early American history.
 - [Simple Latin Online Reading Resources](http://johnpiazza.net/latin/online-reading/)
