@@ -5,36 +5,37 @@ I've tried to add variety to the list to give you, dear learner, plenty of optio
 Many of the resources below are free, or free to borrow at Internet Archive. Resources that cost money are marked with a dollar sign (💲).
 
 ## Table of contents
-- [Communities](#communities)
 - [Latin](#latin)
+  - [Communities](#latin-communities)
   - [Dictionaries](#latin-dictionaries)
   - [Grammar](#latin-grammar)
   - [Reading](#latin-reading)
   - [Writing](#latin-writing)
   - [Podcasts and YouTube channels](#latin-podcasts-and-youtube-channels)
 - [Ancient Greek](#ancient-greek)
+  - [Communities](#greek-communities)
   - [Dictionaries](#greek-dictionaries)
   - [Grammar](#greek-grammar)
   - [Reading](#greek-reading)
   - [Writing](#greek-writing)
 
 <!-- omit in toc -->
-# Communities
+# Latin
+
+<!-- omit in toc -->
+## Latin communities
+
+There are many, many Latin enthusiast communities, but these are good starting points.
 
 - [Textkit](https://www.textkit.com/greek-latin-forum/)
 - [Latin subreddit](https://www.reddit.com/r/latin). Be sure to browse the links at the top ("Chat in Latin", "All the Resources", "How to Learn Latin").
-- [Ancient Greek subreddit](https://www.reddit.com/r/AncientGreek). Be sure to browse their [resources page](https://www.reddit.com/r/AncientGreek/wiki/resources/).
 - [Humanitas](https://www.conventiculum.com/2023-english) holds online Latin immersion workshops, including a track for beginners. As long as you know the basics of Latin ([see below](#latin-grammar)) you can join in. It's a lot of fun because there are many "regulars" who show up every time, and after a couple of workshops you might be old friends already.
 - [Conventiculum Dickinsoniense](https://blogs.dickinson.edu/dcc/2022/11/09/conventiculum-dickinsoniense-2023/) is a similar workshop but in-person.
-- [Σύνοδος ἑλληνική](https://www.polisjerusalem.org/program/2022-synodos-hellenikos-%E1%BC%91%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%E1%BD%B8%CF%82-%CF%83%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82) by the Polis Institute is similar workshop for ancient Greek.
-
-<!-- omit in toc -->
-# Latin
 
 <!-- omit in toc -->
 ## Latin dictionaries
 
-These are for reference. Skip down to "Latin Grammar" for first steps.
+These are for reference. Skip down to ["Latin grammar"](#latin-grammar) for first steps.
 
 - [Logeion](https://logeion.uchicago.edu) Latin and Greek dictionaries
 - [Perseus Latin Word Study Tool](https://www.perseus.tufts.edu/hopper/morph?la=latin), handy for when you're not sure of the dictionary form of a word
@@ -105,7 +106,18 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 # Ancient Greek
 
 <!-- omit in toc -->
+## Greek communities
+
+There are quite a few Ancient Greek enthusiast communities, but these are good starting points.
+
+- [Textkit](https://www.textkit.com/greek-latin-forum/)
+- [Ancient Greek subreddit](https://www.reddit.com/r/AncientGreek). Be sure to browse their [resources page](https://www.reddit.com/r/AncientGreek/wiki/resources/).
+- [Σύνοδος ἑλληνική](https://www.polisjerusalem.org/program/2022-synodos-hellenikos-%E1%BC%91%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%E1%BD%B8%CF%82-%CF%83%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82)
+
+<!-- omit in toc -->
 ## Greek dictionaries
+
+These are for reference. Skip down to ["Greek grammar"](#greek-grammar) for first steps.
 
 - [Logeion](https://logeion.uchicago.edu) Latin and Greek dictionaries
 - [Perseus Greek Word Study Tool](https://www.perseus.tufts.edu/hopper/morph?la=greek), handy for when you're not sure of the dictionary form of a word
