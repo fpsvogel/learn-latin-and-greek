@@ -55,22 +55,22 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 ## Latin reading
 
 - [Latinitium's "Start Learning Latin" section](https://latinitium.com/#startlearninglatin) has great tips on how to make your Latin reading productive.
-- [LLPSI: Familia Romana](https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV) videos by ScipioMartianus
-  - [Exercitia Latina](https://exercitia-latina.surge.sh/chapters)
-  - 💲[LLPSI: A Companion to Familia Romana](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-a-companion-to-familia-romana-second-edition) if you want guidance on grammar.
-  - 💲[LLPSI: Colloquia Personarum](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-colloquia-personarum-second-edition-with-full-color-illustrations)
-  - [LLPSI: Fabellae Latinae](https://www.mediafire.com/file/s5byiw7z4slhy4u/Fabellae_Latinae_I-XXXV.pdf/file) and [audio recordings](https://www.youtube.com/playlist?list=PLmiokot_81foUicf2DanPABQkSzG6257t)
-  - 💲[LLPSI: Fabulae Syrae](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-fabulae-syrae)
+- [LLPSI: *Familia Romana*](https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV) videos by ScipioMartianus
+  - [LLPSI: *Exercitia Latina*](https://exercitia-latina.surge.sh/chapters)
+  - 💲[LLPSI: *A Companion to Familia Romana*](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-a-companion-to-familia-romana-second-edition) if you want guidance on grammar.
+  - 💲[LLPSI: *Colloquia Personarum*](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-colloquia-personarum-second-edition-with-full-color-illustrations)
+  - [LLPSI: *Fabellae Latinae*](https://www.mediafire.com/file/s5byiw7z4slhy4u/Fabellae_Latinae_I-XXXV.pdf/file) and [audio recordings](https://www.youtube.com/playlist?list=PLmiokot_81foUicf2DanPABQkSzG6257t)
+  - 💲[LLPSI: *Fabulae Syrae*](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-fabulae-syrae)
 - [Ritchie's *Fabulae Faciles*](https://geoffreysteadman.com/ritchies-fabulae-faciles/) and ["Perseus" audio recordings](http://indwellinglanguage.com/latin-media/latin-audio/perseus), ["Perseus" grammar videos](https://www.youtube.com/playlist?list=PLEC2sC2cPY4B7JSQfTPJKZU4XuoVm-Q7T), ["Hercules" audio recording](https://www.youtube.com/watch?v=cTvjDtJP_wU)
 - [Nutting's *A First Latin Reader*](https://www.google.com/books/edition/A_First_Latin_Reader/ZLgKAwAAQBAJ) and [audio recordings](http://indwellinglanguage.com/latin-media/latin-audio/a-first-latin-reader), which includes stories about early American history.
 - [Simple Latin Online Reading Resources](http://johnpiazza.net/latin/online-reading/)
 - 💲[Latinum](https://www.latinum.org.uk/beginner) has lots of audio courses and books, all available via a Patreon subscription.
 - 💲[Latin novellas](https://docs.google.com/document/d/1bF8hZuxTDtgNMSSdonEX112JJaVYqoPH7w27Oju9ETs). There are tons of them, and some are available as audiobooks.
-- 💲[LLPSI: Roma Aeterna](https://www.amazon.com/Roma-Aeterna-Hans-H-%C3%98rberg/dp/1585102334) and [audio recordings](https://www.youtube.com/watch?v=ycAjNsy6OJU&list=PLSpl3cO92FvZvZa2t5ZGA_lkUVj_1bQE-&index=140) (or [these by Alexis Hellmer](https://www.facebook.com/groups/189810055109040/media/videos) which have great pronunciation but are a pain to navigate; [here is the first one](https://www.facebook.com/alexis.hellmer1/videos/2036068226483997/?idorvanity=189810055109040))
-  - 💲[A Companion to Roma Aeterna](https://www.amazon.com/Companion-Roma-Aeterna-Instructions-Vocabulary-ebook/dp/B07BS79TN2)
+- 💲[LLPSI: *Roma Aeterna*](https://www.amazon.com/Roma-Aeterna-Hans-H-%C3%98rberg/dp/1585102334) and [audio recordings](https://www.youtube.com/watch?v=ycAjNsy6OJU&list=PLSpl3cO92FvZvZa2t5ZGA_lkUVj_1bQE-&index=140) (or [these by Alexis Hellmer](https://www.facebook.com/groups/189810055109040/media/videos) which have great pronunciation but are a pain to navigate; [here is the first one](https://www.facebook.com/alexis.hellmer1/videos/2036068226483997/?idorvanity=189810055109040))
+  - 💲[LLPSI: *A Companion to Roma Aeterna*](https://www.amazon.com/Companion-Roma-Aeterna-Instructions-Vocabulary-ebook/dp/B07BS79TN2)
   - [Syntaxis 'Romae Aeternae'](https://scholarisopus.files.wordpress.com/2010/09/syntaxisra.pdf), the new grammatical concepts explained in Latin.
-- [Ad Alpes](https://archive.org/details/AdAlpes) and [audio recordings at Latinum](https://www.patreon.com/posts/38375506) or at Latinitium ([1](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-1-chapters-1-12-audiobook), [2](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-2-chapters-13-26-audiobook))
-- [Ciceronis Filius](https://linguae.weebly.com/uploads/3/6/5/7/3657496/ciceronis_filius_paoli.pdf)
+- [*Ad Alpes*](https://archive.org/details/AdAlpes) and [audio recordings at Latinum](https://www.patreon.com/posts/38375506) or at Latinitium ([1](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-1-chapters-1-12-audiobook), [2](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-2-chapters-13-26-audiobook))
+- [*Ciceronis Filius*](https://linguae.weebly.com/uploads/3/6/5/7/3657496/ciceronis_filius_paoli.pdf)
 
 <!-- omit in toc -->
 ## Latin writing
@@ -81,12 +81,12 @@ Writing is just another way to internalize the language, so that your reading be
 
 - [Bradley – *Latin Exercises*](https://www.google.com/books/edition/_/84sCAAAAQAAJ) and [answer key](https://www.google.com/books/edition/_/FYwCAAAAQAAJ)
 - [Bennett – *First Latin Writer*](https://www.google.com/books/edition/_/QZICAAAAQAAJ) and [answer key](https://www.google.com/books/edition/_/N5ECAAAAQAAJ)
-- [D’Ooge – *Latin for Beginners*](https://www.google.com/books/edition/_/2uFEAAAAIAAJ) and [answer key](https://archive.org/details/bld-latin-for-beginners-key-rl)
+- [D'Ooge – *Latin for Beginners*](https://www.google.com/books/edition/_/2uFEAAAAIAAJ) and [answer key](https://archive.org/details/bld-latin-for-beginners-key-rl)
 
 **Then move on to these:**
 
 - [North & Hillard – *Latin Prose Composition*](https://archive.org/details/north-m.-hilladr-a.-latin-prose-composition-1913) and [answer key](https://archive.org/details/LatinProseCompNorthHillardKEY)
-- ["Bradley’s Arnold"](https://archive.org/details/practicalintrod00arnouoft) and [answer key on this page](http://hiberna-cr.wikidot.com/downloads) (along with many other resources)
+- ["Bradley's Arnold"](https://archive.org/details/practicalintrod00arnouoft) and [answer key on this page](http://hiberna-cr.wikidot.com/downloads) (along with many other resources)
 - 💲[Colebourn – *Latin Sentence and Idiom*](https://www.amazon.com/Latin-Sentence-Idiom-Composition-Language/dp/0862922658) and [answer key linked in this thread](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=3&t=64677)
 
 Lots more Latin writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#4)
@@ -146,7 +146,7 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 - [Beresford & Douglas – *A First  Greek  Reader*](https://archive.org/details/BERESFORDDOUGLAS-AFirstGreekReader) and 💲[audio recordings](https://ancientgreek.eu/edu/first-greek-reader.html)
 - [*Thrasymachus*](https://archive.org/details/Thrasymachus_A_New_Greek_Course)
 - [Moss's *A First Greek Reader*](https://www.google.com/books/edition/_/-A4BAAAAYAAJ) and [audio recordings](https://www.latinperdiem.com/a-first-greek-reader-charles-melville-moss-audio-files/)
-- [Stoffel - An Epitome of the New Testament](https://archive.org/details/epitometeskaines01stof) and [audio recordings of a few chapters](https://www.youtube.com/playlist?list=PLUqyJQtzjxMCB3x8jGvgGO3KTB_kTXqTD)
+- [Stoffel - *An Epitome of the New Testament*](https://archive.org/details/epitometeskaines01stof) and [audio recordings of a few chapters](https://www.youtube.com/playlist?list=PLUqyJQtzjxMCB3x8jGvgGO3KTB_kTXqTD)
 - Other easy readers at the [Greek Learner Texts Project](https://greek-learner-texts.org/texts/#19th20th-century-easy-greek-readers)
 - [Cebes' Tablet](https://geoffreysteadman.com/cebes-tablet/) and 💲[audio recordings](https://ancientgreek.eu/audiobooks/cebes.html)
 - [Greek comics and audio](https://archive.org/details/@bedwere?and[]=subject%3A%22Ancient+Greek%22) by Roberto Lionello
