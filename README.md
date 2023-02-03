@@ -139,6 +139,7 @@ It's helpful to spend some time on grammar before moving on to easy reading and 
 - 💲[*Athenaze*, vol. 1 (Italian edition)](https://www.amazon.it/dp/8895611497) and [audio recordings of a few chapters](https://www.youtube.com/playlist?list=PLU1WuLg45SixrxviQiHOlkdkT-XPvyrgv)
 - 💲[*Ephodion*, vol. 1](https://www.amazon.it/dp/8895611128)
 - 💲[*Alexandros*](https://www.amazon.com/dp/8493579874)
+- 💲[*Mythologica*](https://sites.google.com/view/culturaclasicaediciones/home/lingua-graeca/libros?authuser=0#h.c6z517d257qd)
 - [Lingua Graeca Per Se Illustrata](https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/)
 - 💲[*Athenaze*, vol. 2 (Italian edition)](https://www.amazon.it/dp/8895611500)
 - 💲[*Ephodion*, vol. 2](https://www.amazon.it/dp/8895611209)
