@@ -12,6 +12,7 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
   - [Reading](#latin-reading)
   - [Writing](#latin-writing)
   - [Podcasts and YouTube channels](#latin-podcasts-and-youtube-channels)
+  - [Other resource lists](#other-latin-resource-lists)
 - [Ancient Greek](#ancient-greek)
   - [Communities](#greek-communities)
   - [Dictionaries](#greek-dictionaries)
@@ -101,6 +102,13 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 - [Nuntii Latini](https://nuntiilatini.com/)
 - [Beatus Helvetius Salodurensis](https://www.youtube.com/@beatushelvetiussalodurensi3658/videos)
 - [Magister Craft](https://www.youtube.com/@MagisterCraft/videos)
+
+<!-- omit in toc -->
+## Other Latin resource lists
+
+Here are other lists that I like, but which I chose not to incorporate into this list for the sake of space.
+
+- [Latin reading (optimized)](https://docs.google.com/spreadsheets/d/1TugURNkc0461IQoToKIlE4hnnbRykRYYxvrfl2X90No)
 
 <!-- omit in toc -->
 # Ancient Greek
