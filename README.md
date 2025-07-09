@@ -11,6 +11,7 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
   - [Grammar](#latin-grammar)
   - [Reading](#latin-reading)
   - [Writing](#latin-writing)
+  - [Phrase books and thesauri](#latin-phrase-books-and-thesauri)
   - [Podcasts and YouTube channels](#latin-podcasts-and-youtube-channels)
   - [Other resource lists](#other-latin-resource-lists)
 - [Ancient Greek](#ancient-greek)
@@ -26,7 +27,7 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
 <!-- omit in toc -->
 ## Latin communities
 
-There are many, many Latin enthusiast communities, but these are good starting points.
+There are many Latin enthusiast communities, but these are good starting points.
 
 - [Textkit](https://www.textkit.com/greek-latin-forum/)
 - [Latin subreddit](https://www.reddit.com/r/latin). Be sure to browse the links at the top ("Chat in Latin", "All the Resources", "How to Learn Latin").
@@ -93,6 +94,14 @@ Writing is just another way to internalize the language, so that your reading be
 Lots more Latin writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#4)
 
 Another good exercise is to write a daily journal in Latin. You'll need an English-Latin dictionary ([links above](#latin-dictionaries)).
+
+<!-- omit in toc -->
+## Latin phrase books and thesauri
+
+- [Meissner – *Latin Phrase-Book*](https://www.gutenberg.org/ebooks/50280)
+- [Erasmus – *Adagia*](https://www.mercaba.es/renacimiento/adagios_de_erasmo.pdf)
+- [Döderlein – *Hand-book of Latin Synonymes*](https://www.gutenberg.org/ebooks/33197)
+- [Ramshorn – *Dictionary Of Latin Synonymes*](https://archive.org/details/ramshorn-lewis-dictionary-of-latin-synonymes-1841)
 
 <!-- omit in toc -->
 ## Latin podcasts and YouTube channels
