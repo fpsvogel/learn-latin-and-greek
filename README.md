@@ -32,7 +32,8 @@ There are many Latin enthusiast communities, but these are good starting points.
 - [Textkit](https://www.textkit.com/greek-latin-forum/)
 - [Latin subreddit](https://www.reddit.com/r/latin). Be sure to browse the links at the top ("Chat in Latin", "All the Resources", "How to Learn Latin").
 - [Humanitas](https://www.conventiculum.com/name-humanitas) holds online Latin immersion workshops, including a track for beginners. As long as you know the basics of Latin ([see below](#latin-grammar)) you can join in. It's a lot of fun because there are many "regulars" who show up every time, and after a couple of workshops you might be old friends already.
-- [Conventiculum Dickinsoniense](https://blogs.dickinson.edu/dcc/2022/11/09/conventiculum-dickinsoniense-2023/) is a similar workshop but in-person.
+- [Conventiculum Dickinsoniense](https://blogs.dickinson.edu/dcc/2022/11/09/conventiculum-dickinsoniense-2023/) is a similar workshop but in person.
+- [Graduate Certificate in Latin Studies](https://online.uky.edu/graduate-certificate/latin-studies) online immersion program, created and taught by the organizers of Humanitas.
 
 <!-- omit in toc -->
 ## Latin dictionaries
