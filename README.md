@@ -4,6 +4,8 @@ I've tried to add variety to the list to give you, dear learner, plenty of optio
 
 Many of the resources below are free, or free to borrow at Internet Archive. Resources that cost money are marked with a dollar sign (💲).
 
+Another list: [Thesaurus Brumalis](https://docs.google.com/document/d/13JLLzsLUmMa_jD1WOMXeTvSS9WKHjnOjwxygXtjAkcc)
+
 ## Table of contents
 - [Latin](#latin)
   - [Communities](#latin-communities)
