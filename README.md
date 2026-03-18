@@ -4,8 +4,6 @@ I've tried to add variety to the list to give you, dear learner, plenty of optio
 
 Many of the resources below are free, or free to borrow at Internet Archive. Resources that cost money are marked with a dollar sign (💲).
 
-Another list for Latin: [Thesaurus Brumalis](https://docs.google.com/document/d/13JLLzsLUmMa_jD1WOMXeTvSS9WKHjnOjwxygXtjAkcc)
-
 ## Table of contents
 - [Latin](#latin)
   - [Communities](#latin-communities)
@@ -28,6 +26,8 @@ Another list for Latin: [Thesaurus Brumalis](https://docs.google.com/document/d/
 
 <!-- omit in toc -->
 ## Latin communities
+
+This section is at the top for visibility. Skip down to ["Latin grammar"](#latin-grammar) for first steps.
 
 **Online communities:** These include spaces for writing and/or speaking Latin.
 
@@ -55,7 +55,7 @@ These are for reference. Skip down to ["Latin grammar"](#latin-grammar) for firs
 <!-- omit in toc -->
 ## Latin grammar
 
-It's helpful to spend some time on grammar before moving on to easy reading and writing. Here are some options:
+It's helpful to spend some time on grammar before moving on to easy reading and writing (or, if you're feeling adventurous, [join an active Latin community](#latin-communities)). Here are some options:
 
 - 💲[Latin by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/latin-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables). My favorite for its brevity. [Here's a video overview](https://www.youtube.com/watch?v=_yflqUWKVVc) by the author.
 - [*Latin: A Structural Approach*](https://archive.org/details/latinstructurala00swee)
@@ -124,7 +124,8 @@ There are lots of Latin podcasts and YouTube channels out there, but most are ou
 
 Here are other lists that I like, but which I chose not to incorporate into this list for the sake of space.
 
-- [Latin reading (optimized)](https://docs.google.com/spreadsheets/d/1TugURNkc0461IQoToKIlE4hnnbRykRYYxvrfl2X90No)
+- [Latin reading list](https://docs.google.com/spreadsheets/d/1TugURNkc0461IQoToKIlE4hnnbRykRYYxvrfl2X90No), including links to audio
+- [Thesaurus Brumalis](https://docs.google.com/document/d/13JLLzsLUmMa_jD1WOMXeTvSS9WKHjnOjwxygXtjAkcc)
 
 <!-- omit in toc -->
 # Ancient Greek
@@ -132,11 +133,10 @@ Here are other lists that I like, but which I chose not to incorporate into this
 <!-- omit in toc -->
 ## Greek communities
 
-There are quite a few Ancient Greek enthusiast communities, but these are good starting points.
+This section is at the top for visibility. Skip down to ["Greek grammar"](#greek-grammar) for first steps.
 
-- [Textkit](https://www.textkit.com/greek-latin-forum/)
-- [Ancient Greek subreddit](https://www.reddit.com/r/AncientGreek). Be sure to browse their [resources page](https://www.reddit.com/r/AncientGreek/wiki/resources/).
-- [Σύνοδος ἑλληνική](https://www.polisjerusalem.org/program/2022-synodos-hellenikos-%E1%BC%91%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%E1%BD%B8%CF%82-%CF%83%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82)
+- [Ancient Greek subreddit](https://www.reddit.com/r/AncientGreek), especially the [resources page](https://www.reddit.com/r/AncientGreek/wiki/resources/).
+- [Polis Greek courses](https://www.polisjerusalem.org/language/ancient-greek#programs), including the Σύνοδος ἑλληνική immersion workshop.
 
 <!-- omit in toc -->
 ## Greek dictionaries
