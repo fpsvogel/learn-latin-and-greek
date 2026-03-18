@@ -29,13 +29,13 @@ Another list for Latin: [Thesaurus Brumalis](https://docs.google.com/document/d/
 <!-- omit in toc -->
 ## Latin communities
 
-- **Online communities:** These include spaces for writing and/or speaking Latin.
+**Online communities:** These include spaces for writing and/or speaking Latin.
 
 - [Latin subreddit](https://www.reddit.com/r/latin), especially the sidebar resources (Chat in Latin, Calendar, FAQ).
 - [Latin & Greek Chats](https://latinandgreekchats.weebly.com)
 - Many major cities have an in-person group, which you can find via web search for "<your city> spoken/active/conversational Latin", or look through the various lists of *circuli Latini* ([example](https://www.latinum.org.uk/resources%20#h.p_ugedwq2WnFU6)).
 
-- **Workshops and courses:** There are too many to list, so here are a just a few that I can recommend.
+**Workshops and courses:** There are too many to list, so here are a just a few that I can recommend.
 
 - [Humanitas](https://www.conventiculum.com/name-humanitas) holds online Latin immersion workshops, including workshops for beginners. As long as you know the basics of Latin ([see below](#latin-grammar)) you can join in. It's a lot of fun because there are many "regulars" who show up every time, and after a couple of workshops you might be old friends already.
 - [Conventiculum Dickinsoniense](https://blogs.dickinson.edu/dcc/2022/11/09/conventiculum-dickinsoniense-2023/) is a similar workshop but in person.
