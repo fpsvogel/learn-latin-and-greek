@@ -11,7 +11,6 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
   - [Grammar](#latin-grammar)
   - [Reading](#latin-reading)
   - [Writing](#latin-writing)
-  - [Phrase books and thesauri](#latin-phrase-books-and-thesauri)
   - [Podcasts and YouTube channels](#latin-podcasts-and-youtube-channels)
   - [Other resource lists](#other-latin-resource-lists)
 - [Ancient Greek](#ancient-greek)
@@ -48,9 +47,13 @@ These are for reference. Skip down to ["Latin grammar"](#latin-grammar) for firs
 
 - [Logeion](https://logeion.uchicago.edu) Latin and Greek dictionaries
 - [Perseus Latin Word Study Tool](https://www.perseus.tufts.edu/hopper/morph?la=latin), handy for when you're not sure of the dictionary form of a word
-- [Godmy's Searchable Digitized Latin & Greek Lexica](http://lexica.linguax.com/) for Latin-Latin dictionaries
-- English-Latin dictionaries: [Smith & Hall](https://latinitium.com/latin-dictionaries/) and [Numen](https://latinlexicon.org/search_english.php)
 - [Neo-Latin Lexicon](https://neolatinlexicon.org/adumbratio-old/)
+- English-Latin: [Smith & Hall](https://latinitium.com/latin-dictionaries/), [Numen](https://latinlexicon.org/search_english.php)
+- Latin-Latin: [Forcellini](http://lexica.linguax.com/forc2.php), [Wagner's thesaurus](http://lexica.linguax.com/wagner.php)
+- Phrasebooks: [Meissner](https://www.gutenberg.org/ebooks/50280), [*Adagia* by Erasmus](https://www.mercaba.es/renacimiento/adagios_de_erasmo.pdf)
+- Thesauri: [Döderlein](https://www.gutenberg.org/ebooks/33197), [Ramshorn](https://archive.org/details/ramshorn-lewis-dictionary-of-latin-synonymes-1841)
+- [PHI Latin Texts](https://latin.packhum.org/search?q=)
+- [Classified Vocabulary](https://archive.org/details/gb_walter-ripman-handbook-of-the-latin-language/page/529) from Walter Ripman's Handbook of the Latin Language
 
 <!-- omit in toc -->
 ## Latin grammar
@@ -101,14 +104,6 @@ Writing is just another way to internalize the language, so that your reading be
 Lots more Latin writing books with keys can be found [here](https://www.textkit.com/greek-latin-forum/viewtopic.php?f=6&p=213636) and [here](https://www.edonnelly.com/google.html#4)
 
 Another good exercise is to write a daily journal in Latin. You'll need an English-Latin dictionary ([links above](#latin-dictionaries)).
-
-<!-- omit in toc -->
-## Latin phrase books and thesauri
-
-- [Meissner – *Latin Phrase-Book*](https://www.gutenberg.org/ebooks/50280)
-- [Erasmus – *Adagia*](https://www.mercaba.es/renacimiento/adagios_de_erasmo.pdf)
-- [Döderlein – *Hand-book of Latin Synonymes*](https://www.gutenberg.org/ebooks/33197)
-- [Ramshorn – *Dictionary Of Latin Synonymes*](https://archive.org/details/ramshorn-lewis-dictionary-of-latin-synonymes-1841)
 
 <!-- omit in toc -->
 ## Latin podcasts and YouTube channels
