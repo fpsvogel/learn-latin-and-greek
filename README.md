@@ -164,10 +164,14 @@ Memorize all the grammar tables in any Greek primer, and then proceed to easy re
 <!-- omit in toc -->
 ## Greek reading
 
+It may be helpful to read several of these texts in parallel, since they advance quickly in difficulty. [Here's a spreadsheet](https://docs.google.com/spreadsheets/d/16s3pOejAXaUvQ-WCYmFrXo2cnKsl2j0efCrothCp3Y4) with details on that (or [a video explainer](https://youtu.be/2vwb1wVzPec?t=2591)).
+
 - 💲[*Athenaze*, vol. 1 (Italian edition)](https://www.amazon.it/dp/8895611497) and [audio recordings of a few chapters](https://www.youtube.com/playlist?list=PLU1WuLg45SixrxviQiHOlkdkT-XPvyrgv)
 - 💲[*Ephodion*, vol. 1](https://www.amazon.it/dp/8895611128)
 - 💲[*Alexandros*](https://www.amazon.com/dp/8493579874)
 - 💲[*Mythologica*](https://sites.google.com/view/culturaclasicaediciones/home/lingua-graeca/libros?authuser=0#h.c6z517d257qd)
+- 💲[*Ancient Greek Alive*](https://uncpress.org/9780807848005/ancient-greek-alive)
+- 💲[*Logos*](https://www.amazon.com/Logos-Lingua-Graeca-%CE%9B%CF%8C%CE%B3%CE%BF%CF%82-%E1%BC%99%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE/dp/8494534661)
 - [Lingua Graeca Per Se Illustrata](https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/)
 - 💲[*Athenaze*, vol. 2 (Italian edition)](https://www.amazon.it/dp/8895611500)
 - 💲[*Ephodion*, vol. 2](https://www.amazon.it/dp/8895611209)
@@ -176,7 +180,7 @@ Memorize all the grammar tables in any Greek primer, and then proceed to easy re
 - [*Thrasymachus*](https://archive.org/details/Thrasymachus_A_New_Greek_Course)
 - [Moss's *A First Greek Reader*](https://www.google.com/books/edition/_/-A4BAAAAYAAJ) and [audio recordings](https://www.latinperdiem.com/a-first-greek-reader-charles-melville-moss-audio-files/)
 - [Stoffel - *An Epitome of the New Testament*](https://archive.org/details/epitometeskaines01stof) and [audio recordings of a few chapters](https://www.youtube.com/playlist?list=PLUqyJQtzjxMCB3x8jGvgGO3KTB_kTXqTD)
-- Other easy readers at the [Greek Learner Texts Project](https://greek-learner-texts.org/texts/#19th20th-century-easy-greek-readers)
+- Other public-domain easy readers at the [Greek Learner Texts Project](https://greek-learner-texts.org/texts/#19th20th-century-easy-greek-readers)
 - [Cebes' Tablet](https://geoffreysteadman.com/cebes-tablet/) and 💲[audio recordings](https://ancientgreek.eu/audiobooks/cebes.html)
 - [Greek comics and audio](https://archive.org/details/@bedwere?and[]=subject%3A%22Ancient+Greek%22) by Roberto Lionello
 - [Pharr's *Homeric Greek: A Book for Beginners*](https://archive.org/details/PharrBeginningHomericGreek1920) and [answer key](https://archive.org/details/pharr-answer-key)
