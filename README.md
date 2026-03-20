@@ -45,23 +45,30 @@ This section is at the top for visibility. Skip down to ["Latin grammar"](#latin
 
 These are for reference. Skip down to ["Latin grammar"](#latin-grammar) for first steps.
 
+**Essentials:**
+
 - [Logeion](https://logeion.uchicago.edu) Latin and Greek dictionaries
 - [Perseus Latin Word Study Tool](https://www.perseus.tufts.edu/hopper/morph?la=latin), handy for when you're not sure of the dictionary form of a word
 - [Neo-Latin Lexicon](https://neolatinlexicon.org/adumbratio-old/)
-- English-Latin: [Smith & Hall](https://latinitium.com/latin-dictionaries/), [Numen](https://latinlexicon.org/search_english.php)
+- English-Latin: [Numen](https://latinlexicon.org/search_english.php) or [Smith & Hall](https://latinitium.com/latin-dictionaries/)
+
+**Others:**
+
 - Latin-Latin: [Forcellini](http://lexica.linguax.com/forc2.php), [Wagner's thesaurus](http://lexica.linguax.com/wagner.php)
 - Phrasebooks: [Meissner](https://www.gutenberg.org/ebooks/50280), [*Adagia* by Erasmus](https://www.mercaba.es/renacimiento/adagios_de_erasmo.pdf)
 - Thesauri: [Döderlein](https://www.gutenberg.org/ebooks/33197), [Ramshorn](https://archive.org/details/ramshorn-lewis-dictionary-of-latin-synonymes-1841)
 - [PHI Latin Texts](https://latin.packhum.org/search?q=)
-- [Classified Vocabulary](https://archive.org/details/gb_walter-ripman-handbook-of-the-latin-language/page/529) from Walter Ripman's Handbook of the Latin Language
+<!-- - [Classified Vocabulary](https://archive.org/details/gb_walter-ripman-handbook-of-the-latin-language/page/529) from Walter Ripman's Handbook of the Latin Language -->
 
 <!-- omit in toc -->
 ## Latin grammar
 
-It's helpful to spend some time on grammar before moving on to easy reading and writing (or, if you're feeling adventurous, [join an active Latin community](#latin-communities)). Here are some options:
+Some people jump straight into easy reading and absorb grammatical rules as they go along, but here's what worked best for me.
 
-- 💲[Latin by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/latin-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables). My favorite for its brevity. [Here's a video overview](https://www.youtube.com/watch?v=_yflqUWKVVc) by the author.
-- [*Latin: A Structural Approach*](https://archive.org/details/latinstructurala00swee)
+Memorize all the grammar tables in any Latin primer, and then proceed to easy reading.
+
+- 💲[Latin by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/latin-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables) is a more structured form of this approach, with an audio component. [Here's a video overview](https://www.youtube.com/watch?v=_yflqUWKVVc) by the author.
+- [*Latin: A Structural Approach*](https://archive.org/details/latinstructurala00swee) is a good Latin primer.
 
 <!-- omit in toc -->
 ## Latin reading
@@ -147,9 +154,11 @@ These are for reference. Skip down to ["Greek grammar"](#greek-grammar) for firs
 <!-- omit in toc -->
 ## Greek grammar
 
-It's helpful to spend some time on grammar before moving on to easy reading and writing. Here are some options:
+Some people jump straight into easy reading and absorb grammatical rules as they go along, but here's what worked best for me.
 
-- 💲[Ancient Greek by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/ancient-greek-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables)
+Memorize all the grammar tables in any Greek primer, and then proceed to easy reading.
+
+- 💲[Ancient Greek by the Ranieri-Dowling Method](https://luke-ranieri.myshopify.com/products/ancient-greek-by-the-ranieri-dowling-method-latin-summary-of-forms-of-nouns-verbs-adjectives-pronouns-audio-grammar-tables) is a more structured form of this approach, with an audio component. [Here's a video overview](https://www.youtube.com/watch?v=kqr-BlEvHnI) by the author.
 - [A Digital Tutorial for Ancient Greek](https://daedalus.umkc.edu/FirstGreekBook/index.html)
 
 <!-- omit in toc -->
