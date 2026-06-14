@@ -186,6 +186,7 @@ It may be helpful to read several of these texts in parallel, since they advance
 - [Pharr's *Homeric Greek: A Book for Beginners*](https://archive.org/details/PharrBeginningHomericGreek1920) and [answer key](https://archive.org/details/pharr-answer-key)
   - [Attic paraphrases of Homer](https://ryanfb.xyz/etc/2019/02/25/resources_for_reading_homeric_greek.html#paraphrases) if you want to keep reading Homer and practice your prose reading at the same time.
 - [Akropolis World News](http://www.akwn.net/)
+- [Audio recordings of the Bible in ancient Greek](https://www.mrgreekgeek.com/2020/09/02/greek-audio-recordings-of-the-old-new-testaments/)
 
 <!-- omit in toc -->
 ## Greek writing
