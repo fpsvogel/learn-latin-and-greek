@@ -90,6 +90,7 @@ Memorize all the grammar tables in any Latin primer, and then proceed to easy re
   - [Syntaxis 'Romae Aeternae'](https://scholarisopus.files.wordpress.com/2010/09/syntaxisra.pdf), the new grammatical concepts explained in Latin.
 - [*Ad Alpes*](https://archive.org/details/AdAlpes) and [audio recordings at Latinum](https://www.patreon.com/posts/38375506) or at Latinitium ([1](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-1-chapters-1-12-audiobook), [2](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-2-chapters-13-26-audiobook))
 - [*Ciceronis Filius*](https://linguae.weebly.com/uploads/3/6/5/7/3657496/ciceronis_filius_paoli.pdf)
+- [Editions with Latin commentary](https://subsidia.vivariumnovum.it/risorse-didattiche/per-la-pratica-didattica/classici-latini-in-edizione-monolingue)
 
 <!-- omit in toc -->
 ## Latin writing
