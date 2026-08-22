@@ -11,6 +11,7 @@ Many of the resources below are free, or free to borrow at Internet Archive. Res
   - [Grammar](#latin-grammar)
   - [Reading](#latin-reading)
   - [Writing](#latin-writing)
+  - [Writing poetry](#latin-writing-poetry)
   - [Podcasts and YouTube channels](#latin-podcasts-and-youtube-channels)
   - [Other resource lists](#other-latin-resource-lists)
 - [Ancient Greek](#ancient-greek)
@@ -114,10 +115,20 @@ Lots more Latin writing books with keys can be found [here](https://www.textkit.
 Another good exercise is to write a daily journal in Latin. You'll need an English-Latin dictionary ([links above](#latin-dictionaries)).
 
 <!-- omit in toc -->
+## Writing Latin poetry
+
+This is something I'm just starting to explore, but here are good starting points:
+
+- [Do-It-Yourself: How To Write Latin Verse](https://www.suberic.net/~marc/schnur.html) <!-- archive: https://web.archive.org/web/20251130045006/https://suberic.net/~marc/schnur.html -->
+- [Latin elegaic composition](https://lachi-lochu.conlang.org/aoidoi/articles/ktl/LatinElegiacs.pdf) ([related articles](https://lachi-lochu.conlang.org/aoidoi/articles/) at the same domain, including [Greek verse composition](https://lachi-lochu.conlang.org/aoidoi/articles/vc/)!) <!-- archive: https://web.archive.org/web/20260822115957/https://lachi-lochu.conlang.org/aoidoi/articles/ktl/LatinElegiacs.pdf --> <!-- Greek archives: https://web.archive.org/web/20260822121357/https://lachi-lochu.conlang.org/aoidoi/articles/meter/intro.pdf https://web.archive.org/web/20260822121003/https://lachi-lochu.conlang.org/aoidoi/articles/ktl/haiku/ https://web.archive.org/web/20260822120940/https://lachi-lochu.conlang.org/aoidoi/articles/meter/elegy.pdf https://web.archive.org/web/20260822120947/https://lachi-lochu.conlang.org/aoidoi/articles/meter/WritingIambics.pdf https://web.archive.org/web/20260822121554/https://lachi-lochu.conlang.org/aoidoi/articles/GrkIambicComp-23-Apr-06.pdf https://web.archive.org/web/20260822121644/https://lachi-lochu.conlang.org/aoidoi/articles/writingsapphics.pdf -->
+- 💲[A Guide to Latin Meter and Verse Composition](https://anthempress.com/books/a-guide-to-latin-meter-and-verse-composition-pb)
+
+<!-- omit in toc -->
 ## Latin podcasts and YouTube channels
 
 There are lots of Latin podcasts and YouTube channels out there, but most are out of reach for all but advanced learners. Here are the few easier ones that I've found:
 
+- 💲[Legentibus](https://legentibus.com/)
 - [Nuntii Latini](https://nuntiilatini.com/)
 - [Beatus Helvetius Salodurensis](https://www.youtube.com/@beatushelvetiussalodurensi3658/videos)
 - [Magister Craft](https://www.youtube.com/@MagisterCraft/videos)
@@ -186,6 +197,7 @@ It may be helpful to read several of these texts in parallel, since they advance
 - [Greek comics and audio](https://archive.org/details/@bedwere?and[]=subject%3A%22Ancient+Greek%22) by Roberto Lionello
 - [Pharr's *Homeric Greek: A Book for Beginners*](https://archive.org/details/PharrBeginningHomericGreek1920) and [answer key](https://archive.org/details/pharr-answer-key)
   - [Attic paraphrases of Homer](https://ryanfb.xyz/etc/2019/02/25/resources_for_reading_homeric_greek.html#paraphrases) if you want to keep reading Homer and practice your prose reading at the same time.
+- Astronautilia, a sci-fi epic ([Greek-Czech edition](https://web2.mlp.cz/koweb/00/04/61/51/45/astronautilia_hvezdoplavba.pdf), [digitized Greek text](https://github.com/aoidospoiematos/Astronautilia)) <!-- archive: https://web.archive.org/web/2/https://web2.mlp.cz/koweb/00/04/61/51/45/astronautilia_hvezdoplavba.pdf -->
 - [Akropolis World News](http://www.akwn.net/)
 - [Audio recordings of the Bible in ancient Greek](https://www.mrgreekgeek.com/2020/09/02/greek-audio-recordings-of-the-old-new-testaments/)
 
