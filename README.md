@@ -183,7 +183,6 @@ It may be helpful to read several of these texts in parallel, since they advance
 - 💲[*Alexandros*](https://www.amazon.com/dp/8493579874)
 - 💲[*Mythologica*](https://sites.google.com/view/culturaclasicaediciones/home/lingua-graeca/libros?authuser=0#h.c6z517d257qd)
 - 💲[*Ancient Greek Alive*](https://uncpress.org/9780807848005/ancient-greek-alive)
-- 💲[*Logos*](https://www.amazon.com/Logos-Lingua-Graeca-%CE%9B%CF%8C%CE%B3%CE%BF%CF%82-%E1%BC%99%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE/dp/8494534661)
 - [Lingua Graeca Per Se Illustrata](https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/)
 - 💲[*Athenaze*, vol. 2 (Italian edition)](https://www.amazon.it/dp/8895611500)
 - 💲[*Ephodion*, vol. 2](https://www.amazon.it/dp/8895611209)
