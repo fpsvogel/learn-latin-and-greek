@@ -92,6 +92,7 @@ Memorize all the grammar tables in any Latin primer, and then proceed to easy re
 - [*Ad Alpes*](https://archive.org/details/AdAlpes) and [audio recordings at Latinum](https://www.patreon.com/posts/38375506) or at Latinitium ([1](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-1-chapters-1-12-audiobook), [2](https://store.latinitium.com/products/ad-alpes-a-tale-of-roman-life-vol-2-chapters-13-26-audiobook))
 - [*Ciceronis Filius*](https://linguae.weebly.com/uploads/3/6/5/7/3657496/ciceronis_filius_paoli.pdf)
 - [Editions with Latin commentary](https://subsidia.vivariumnovum.it/risorse-didattiche/per-la-pratica-didattica/classici-latini-in-edizione-monolingue)
+- [Socratos](https://socratos.org): a free reader for real Latin texts (Caesar, Cicero, Vergil and 170 more) where you tap any word to see its meaning, parse and full table.
 
 <!-- omit in toc -->
 ## Latin writing
@@ -198,6 +199,7 @@ It may be helpful to read several of these texts in parallel, since they advance
 - Astronautilia, a sci-fi epic ([Greek-Czech edition](https://web2.mlp.cz/koweb/00/04/61/51/45/astronautilia_hvezdoplavba.pdf), [digitized Greek text](https://github.com/aoidospoiematos/Astronautilia)) <!-- archive: https://web.archive.org/web/2/https://web2.mlp.cz/koweb/00/04/61/51/45/astronautilia_hvezdoplavba.pdf -->
 - [Akropolis World News](http://www.akwn.net/)
 - [Audio recordings of the Bible in ancient Greek](https://www.mrgreekgeek.com/2020/09/02/greek-audio-recordings-of-the-old-new-testaments/)
+- [Socratos](https://socratos.org): the same for Greek, 555 works from Homer to the New Testament, with LSJ entries.
 
 <!-- omit in toc -->
 ## Greek writing
